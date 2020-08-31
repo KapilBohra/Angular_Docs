@@ -1,0 +1,8 @@
+<html>
+<head>
+<Title>Ang Code Welcome</Title>
+</head>
+<body>
+<h1><b>Welcome to the world of Angular</b></h1>
+</body>
+</html>
